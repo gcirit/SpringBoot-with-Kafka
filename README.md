@@ -1,5 +1,4 @@
 # SpringBoot-with-Kafka
-<<<<<<< HEAD
 
 Coding and implementing Kafka Clients using SpringBoot with Producer/Consumer API.
 
