@@ -67,16 +67,3 @@ Error Handling, Retry and Recovery features added for Kafka Producer
 Add SSL Security for Kafka Cluster
 
 Access SSL Secured Kafka Cluster using Spring Boot
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> e66e3c877e7a3a937a6fb37af255b69b41a482d8
