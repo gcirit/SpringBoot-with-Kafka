@@ -1,4 +1,5 @@
 # SpringBoot-with-Kafka
+<<<<<<< HEAD
 
 Coding and implementing Kafka Clients using SpringBoot with Producer/Consumer API.
 
@@ -78,3 +79,5 @@ Access SSL Secured Kafka Cluster using Spring Boot
 
 
 
+=======
+>>>>>>> e66e3c877e7a3a937a6fb37af255b69b41a482d8
